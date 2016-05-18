@@ -1,0 +1,15 @@
+ACQURING DATA:
+*NOTE* it is recommended that you use firefox, and install the free plugin "DwonThemAll" for easier bulk downloading. 
+Go to http://ursa.asfdaac.alaska.edu
+Select search & order tab on left-hand side  --> Geographic search
+Submit search location request (1)
+  By expanding with "show more options", can select point search with a circle, but any search parameters are fine. 
+Select ALOS PALSAR (2), by opening "more options"
+  Select FBD and FBS beam modes
+  Leave Faraday rotation at "ANY"
+  Select an off nadir angle of 34.3
+Leave date range in (3)
+Leave selections in (4)
+Hit "submit search"
+
+
